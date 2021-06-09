@@ -1,6 +1,6 @@
 - 👋 Hi, I’m crown
-- 🌱 I’m currently learning about RESTful Web Services
-- 💞️ I’m looking to collaborate on anything really. Just tryna get into the world of coding. 
+- I’m currently learning about RESTful Web Services
+- ask my friend wat to put here
 - 📫 You can reach me at: ayad.r.masud@gmail.com or my discord is: amasud#9618
 
 <!---
