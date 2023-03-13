@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayad
-- Currently a junior in highschool.
+- Currently a senior in highschool.
 - 📫 You can reach me at: ayad.r.masud@gmail.com or my discord is: amasud#9618
 
 <!---
