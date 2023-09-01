@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayad
-- Currently a senior in highschool.
+- Currently a frehsmen pursuing a bachelors degree in Computer Science/Computer Engineering at Texas A&M University
 - 📫 You can reach me at: ayad.r.masud@gmail.com or my discord is: amasud#9618
 
 <!---
